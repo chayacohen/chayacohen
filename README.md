@@ -4,7 +4,7 @@ My name is Chaya Cohen. I am Software Engineer with experience in React, Redux, 
 
 I just completed the curriculum at App Academy, a 1000+ hour bootcamp that is highly intensive and requires efficient and quick learning. One of the projects I've worked on is creating a full stack clone of Airbnb, where users can browse listings as well as host and update their own listings. 
 
-When not coding, you can find me hanging out with my husband and daughter, listening to music, and going on long walks in the park. I love the feeling of constantly growing and I am working on perfecting my skills as a Software Engineer. Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/chaya-cohen-6a3035142/) or email me at chayac100@gmail.com.
+When not coding, you can find me hanging out with my husband and daughter, listening to music, and going on long walks in the park. I love the feeling of constantly growing and I am working on perfecting my skills as a Software Engineer. Feel free to connect with me on https://www.linkedin.com/in/chaya-cohen-6a3035142/ or email me at chayac100@gmail.com.
 
 <!--
 **chayacohen/chayacohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
